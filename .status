@@ -6,6 +6,8 @@
 # shouldn't be necessary to run "pub install" in these packages, but if you do
 # it shouldn't break the tests.
 */packages/*/*: Skip
+
+
 */*/packages/*/*: Skip
 */*/*/packages/*/*: Skip
 */*/*/*/packages/*/*: Skip
