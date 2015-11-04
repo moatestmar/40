@@ -12,7 +12,7 @@ the same code will work on the client and the server.
 
 Installation
 ------------
-
+  
 Add this to your `pubspec.yaml` (or create it):
 ```yaml
 dependencies:
