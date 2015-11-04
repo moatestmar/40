@@ -11,7 +11,7 @@ package.
 
 #### Rename to package:html 0.12.0
   * package has been renamed to `html`
-
+   
 #### Pub version 0.12.0
   * switch from `source_maps`' `Span` class to `source_span`'s
     `SourceSpan` class.
